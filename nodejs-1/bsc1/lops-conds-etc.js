@@ -4,9 +4,7 @@ console.log(typeof undefined); // returns undefined
 console.log(typeof null); // returns object just bc it is a bug and cannot fix
 console.log(typeof {age: 39});
 
-//      ALL VARIABLES
-var num = 1;
-var somestring = 'cute';
+//      alternative variable declaration
 otherstring = 'xd';
 
 var ducksarray=['yellowduck', 'whietduck', 'cutedyuck'];
